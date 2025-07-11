@@ -5,12 +5,10 @@ import './App.css';
 const crosshairs = [
   {
     title: "CS 1.6 Cross",
-    description: "4:3 oynayanlar tadını bilir.",
     code: String("0;p;c;1;h;0;0t;1;0l;6;0a;1;0f;0;1b;0")
   },
   {
     title: "Nokta Cross",
-    description: "HS atanlara özel.",
     code: String("0;p;0;1;d;1;0b;0;1b;0")
   }
 ];
